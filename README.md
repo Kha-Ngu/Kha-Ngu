@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kha-Ngu
-- 👀 I’m interested in computer science and Asian media!
+- 👀 I’m interested in computer science and data science/analytics!
 - 🌱 I’m currently learning Assembly and React.js!
 - 💞️ I’m looking to collaborate on all sorts of CS projects! Surprise me!
 - 📫 How to reach me: khanh.ngu1804@gmail.com
